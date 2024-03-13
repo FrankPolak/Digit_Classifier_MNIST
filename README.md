@@ -8,4 +8,4 @@ Convolutional neural network for the classification of hand-written digits (0-9)
 * The model has two dense hidden layers with 64 units each and rectifier activation functions.
 * The dense output layer has 10 units and uses the softmax activation function.
 
-The final accuracy obtained after training for 5 epochs was <ins>**95.66%**</ins>.
+The final accuracy obtained after training for 5 epochs was <ins>**98.43%**</ins>.
