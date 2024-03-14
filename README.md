@@ -1,5 +1,5 @@
 # Digit_Classifier_MNIST
-Convolutional neural network for the classification of hand-written digits (0-9) trained on TensorFlow's MNIST dataset.
+Convolutional neural network for the classification of hand-written digits (0-9) trained on TensorFlow's Keras <a href='https://keras.io/api/datasets/mnist/'>MNIST dataset</a>.
 
 * The model was built using the Sequential class from TensorFlow's Keras API. 
 * The initial layer is Conv2D with a 3x3 kernel and 8 filters. Rectifier activation function was used.
